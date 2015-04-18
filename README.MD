@@ -11,7 +11,7 @@ maven clean install
 ##### To deploy on karaf:
 ```
 # any karaf supported way, ex.
-	
+install -s file:///tmp/gogo/sample-karaf-command-with-blueprint/target/custom-karaf-command-1.0.jar
 ```
 
 ##### Usage:
